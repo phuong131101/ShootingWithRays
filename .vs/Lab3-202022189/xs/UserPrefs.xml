@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D724F28E-D9CD-54C1-56E0-DE36D4785E19}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f13de090-1b48-433a-a894-71f00828b1b8" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BombEnemy.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets/CameraLook.cs" Line="1" Column="1" />
+      <File FileName="Assets/SplitEnemy.cs" Line="5" Column="32" />
+      <File FileName="Assets/BombEnemy.cs" Line="5" Column="30" />
+      <File FileName="Assets/JumpEnemy.cs" Line="2" Column="34" />
+      <File FileName="Assets/Jump.cs" Line="1" Column="1" />
+      <File FileName="Assets/Shoot.cs" Line="34" Column="88" />
+      <File FileName="Assets/Enemy.cs" Line="7" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
