@@ -492,3 +492,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2782.091565 seconds.
+  path: Assets/SceenShot
+  artifactKey: Guid(0101021391f3a45ebb6567a41102fb93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SceenShot using Guid(0101021391f3a45ebb6567a41102fb93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a79725189fd42d2563f6334fcfad9d') in 0.178967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.980849 seconds.
+  path: Assets/ScreenShot
+  artifactKey: Guid(0101021391f3a45ebb6567a41102fb93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScreenShot using Guid(0101021391f3a45ebb6567a41102fb93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec18adecbb0b0411ec95eaa994052248') in 0.002196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.236414 seconds.
+  path: Assets/ScreenShot/Screen Shot 2023-04-01 at 14.03.29.png
+  artifactKey: Guid(34b525e6b1fe64f13a062329d68d65d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScreenShot/Screen Shot 2023-04-01 at 14.03.29.png using Guid(34b525e6b1fe64f13a062329d68d65d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f884a0965e60df6a0ec8713c14e3839') in 1.844720 seconds 

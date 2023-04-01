@@ -720,7 +720,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5313856188506331232, guid: 7444562fe5798e846a4045a93e123308, type: 3}
       propertyPath: m_Name
-      value: Rifle 3
+      value: Gun
       objectReference: {fileID: 0}
     - target: {fileID: 5962309044822735285, guid: 7444562fe5798e846a4045a93e123308, type: 3}
       propertyPath: m_Materials.Array.data[0]
